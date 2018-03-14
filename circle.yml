@@ -2,7 +2,6 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: your-heroku-app-name
-machine:
+      appname: ops200-deliver-it-well
   node:
     version: 8.1.4
